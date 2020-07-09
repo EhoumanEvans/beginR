@@ -40,5 +40,8 @@ In Africa, so often, people don't have the right push to overcome the first chal
   [5.2-Les modèles supervisés]()  
   [5.3-Les modèles non-supervisés]()  
 
-
+ ## Gestion de version | Version Control
+  [6.1-Qu'est ce qu'un logiciel de Gestion de version ?]()
+  [6.2-Gestion de version avec GitHub]() 
+  
 **Authors**: [Anicet Ebou](https://github.com/Ebedthan), [Ahmadou Dicko](https://github.com/dickoa) and Nadejda Sero. 
